@@ -70,7 +70,7 @@
         },
         data() {
             return {
-                url: "http://localhost:3000/books",
+                url: "http://39.99.194.217:3000/books",
                 maxId: 2,
                 book: {name: '', price: ''},
                 dialogVisible: false,
